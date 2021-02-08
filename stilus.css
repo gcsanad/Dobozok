@@ -17,7 +17,7 @@
     margin: auto;
     text-align: justify;
     padding: 10px 10.4mm;
-    text-indent: 19mm;
+    text-indent: 10mm;
     border-left: dashed purple ;
     border-left-width: 4px;
     border-bottom: dashed blue 1.5mm;
@@ -30,6 +30,7 @@
     border-right: brown;
     border-right-style: double;
     border-right-width: 10px;
+    text-indent: 10mm;
 }
 
 #szoveg4 {
@@ -40,12 +41,14 @@
     border-left: dashed purple ;
     border-left-width: 4px;
     border-bottom: dashed blue 1.5mm;
+    text-indent: 11mm;
 }
 
 #szoveg5 {
     background-color: cornsilk;
     text-align: justify;
     padding: 10px 10.4mm;
+    text-indent: 10mm;
 }
 
 #table {
