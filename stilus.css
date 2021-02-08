@@ -20,24 +20,55 @@
     text-indent: 19mm;
     border-left: dashed purple ;
     border-left-width: 4px;
-    border-bottom: dashed blue 2mm;
+    border-bottom: dashed blue 1.5mm;
 }
 
 #szoveg3 {
     background-color: cornsilk;
+    text-align: justify;
+    padding: 10px 10.4mm;
+    border-right: brown;
+    border-right-style: double;
+    border-right-width: 10px;
 }
 
 #szoveg4 {
     background-color: cornsilk;
+    text-align: justify;
+    padding: 10px 10.4mm;
+    padding-bottom: 1cm;
+    border-left: dashed purple ;
+    border-left-width: 4px;
+    border-bottom: dashed blue 1.5mm;
 }
 
 #szoveg5 {
     background-color: cornsilk;
+    text-align: justify;
+    padding: 10px 10.4mm;
 }
 
 #table {
-    border: 6px dotted rgb(214, 171, 61);
+    border: 5px dotted rgb(214, 171, 61);
     margin: auto;
     width: 78%;
     padding: 10px 5mm 10px 5mm;
+}
+
+#kijelolt {
+    color: rgb(39, 177, 223);
+}
+
+#table2 {
+    width: 70%;
+    border: dotted goldenrod 5px;
+    margin-top: 5mm;
+    padding: 10px 5mm 10px 5mm;
+}
+
+#kijelolt2 {
+    color: rgb(160, 54, 54);
+    font-style:inherit;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: normal;
 }
